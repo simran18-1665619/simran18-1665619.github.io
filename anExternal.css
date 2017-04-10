@@ -28,20 +28,22 @@ img.one {
 img.two {
     height: 50px;
     width: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .image { 
    position: center; 
-   margin-top: 20px;
-   margin-bottom: 20px;
-   margin-right: 20px;
-   margin-left: 20px;
+   float: left;
+   
 }
 
 .text {
     left: 0;
-    position: center;
-    text-align:center;
+    float: left;
+    position: absolute;
     top: 30px;
     width: 100%;
     color: white;
