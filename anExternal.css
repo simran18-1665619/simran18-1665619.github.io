@@ -22,7 +22,7 @@ p.ex2 {
 img.one {
     height: 50px;
     width: 50px;
-    float: left;
+    float: right;
 }
 
 img.two {
@@ -40,7 +40,7 @@ img.two {
 
 .text {
     left: 0;
-    position:absolute;
+    position: relative;
     text-align:center;
     top: 30px;
     width: 100%
