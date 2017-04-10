@@ -1,0 +1,58 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: orangered;
+    margin-left: 50px;
+}
+
+p.ex1 {
+    font: bold 15px Times, sans-serif;
+    border-style: rounded;
+    border-bottom: thick dotted red;
+}
+
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
+
+img.one {
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+img.two {
+    height: 50px;
+    width: 50px;
+}
+
+.image { 
+   position: relative; 
+   width: 100%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-right: 20px;
+   margin-left: 20px;
+}
+
+h2.img { 
+   position: absolute;
+   text-align: center; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+p.image {
+    border-style: dotted;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
