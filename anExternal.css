@@ -30,21 +30,13 @@ img.two {
     width: 50px;
 }
 
-.image { 
-   position: center; 
-   margin-top: 20px;
-   margin-bottom: 20px;
-   margin-right: 20px;
-   margin-left: 20px;
-}
-
 .text {
-    left: 0;
-    position: center;
-    margin-top: 10%;
-    margin-left: 10%;
-    width: 100%;
     color: white;
+    float: left;
+    background: black;
+    position:  absolute;
+    margin-top: 68px;
+    margin-left: 120px;
 }
 
 p.image {
