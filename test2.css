@@ -1,0 +1,53 @@
+body {
+    background-color: yellowgreen;
+}
+
+h2 {
+    color:black;font: bold Times, sans-serif;
+    margin-left: 50px;
+}
+
+p.ex1 {
+    color: white;
+    font: bold 15px Times, sans-serif;
+    border-style: rounded;
+    border-bottom: thick dotted red;
+}
+
+p.ex2 {
+    color: white;
+    font: italic bold 12px/30px Georgia, serif;
+}
+
+img.one {
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+img.two {
+    height: 50px;
+    width: 50px;
+}
+
+.text {
+    color: white;
+    float: left;
+    background: black;
+    position:  absolute;
+    margin-top: 68px;
+    margin-left: 120px;
+}
+
+p.image {
+    color: white;
+    border-style: dotted;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 100px;
+    height: 100px;    
+}
